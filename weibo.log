@@ -1,0 +1,810 @@
+1445821 INFO  [2020-01-30 20:39:14]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1446822 INFO  [2020-01-30 20:39:15]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1447823 INFO  [2020-01-30 20:39:16]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1448824 INFO  [2020-01-30 20:39:17]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1449824 INFO  [2020-01-30 20:39:18]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1450825 INFO  [2020-01-30 20:39:19]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1451309 INFO  [2020-01-30 20:39:19]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_1640016932
+1451826 INFO  [2020-01-30 20:39:20]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1451827 INFO  [2020-01-30 20:39:20]  clear all activeThread
+1451828 INFO  [2020-01-30 20:39:20]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1451828 INFO  [2020-01-30 20:39:20]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1451828 INFO  [2020-01-30 20:39:20]  depth 1 finish: 
+	total urls:	1
+	total time:	9 seconds
+1451828 INFO  [2020-01-30 20:39:20]  start depth 2
+1451828 INFO  [2020-01-30 20:39:20]  start merge
+1451828 INFO  [2020-01-30 20:39:20]  merge fetch database
+1451830 INFO  [2020-01-30 20:39:20]  merge link database
+1451830 INFO  [2020-01-30 20:39:20]  end merge
+1451853 DEBUG [2020-01-30 20:39:20]  remove fetch database
+1451869 DEBUG [2020-01-30 20:39:20]  remove link database
+1451869 INFO  [2020-01-30 20:39:20]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1451870 INFO  [2020-01-30 20:39:20]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1452871 INFO  [2020-01-30 20:39:21]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1452871 INFO  [2020-01-30 20:39:21]  clear all activeThread
+1452872 INFO  [2020-01-30 20:39:21]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1452872 INFO  [2020-01-30 20:39:21]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1452872 INFO  [2020-01-30 20:39:21]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1453801 INFO  [2020-01-30 20:39:22]  start depth 1
+1453801 INFO  [2020-01-30 20:39:22]  start merge
+1453801 INFO  [2020-01-30 20:39:22]  merge fetch database
+1453802 INFO  [2020-01-30 20:39:22]  merge link database
+1453802 INFO  [2020-01-30 20:39:22]  end merge
+1453816 DEBUG [2020-01-30 20:39:22]  remove fetch database
+1453832 DEBUG [2020-01-30 20:39:22]  remove link database
+1453832 INFO  [2020-01-30 20:39:22]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1453833 INFO  [2020-01-30 20:39:22]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1454834 INFO  [2020-01-30 20:39:23]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1454834 INFO  [2020-01-30 20:39:23]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1455835 INFO  [2020-01-30 20:39:24]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1455835 INFO  [2020-01-30 20:39:24]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1456836 INFO  [2020-01-30 20:39:25]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1456836 INFO  [2020-01-30 20:39:25]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1457837 INFO  [2020-01-30 20:39:26]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1457837 INFO  [2020-01-30 20:39:26]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1458837 INFO  [2020-01-30 20:39:27]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1458837 INFO  [2020-01-30 20:39:27]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1459837 INFO  [2020-01-30 20:39:28]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1459837 INFO  [2020-01-30 20:39:28]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1460837 INFO  [2020-01-30 20:39:29]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1460837 INFO  [2020-01-30 20:39:29]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1461838 INFO  [2020-01-30 20:39:30]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1461838 INFO  [2020-01-30 20:39:30]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1462021 INFO  [2020-01-30 20:39:30]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=1
+1462839 INFO  [2020-01-30 20:39:31]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1463839 INFO  [2020-01-30 20:39:32]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1464839 INFO  [2020-01-30 20:39:33]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1465840 INFO  [2020-01-30 20:39:34]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1466840 INFO  [2020-01-30 20:39:35]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1467841 INFO  [2020-01-30 20:39:36]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1468841 INFO  [2020-01-30 20:39:37]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1469496 INFO  [2020-01-30 20:39:37]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=3591355593&containerid=1076033591355593&page=2
+1469842 INFO  [2020-01-30 20:39:38]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1469842 INFO  [2020-01-30 20:39:38]  clear all activeThread
+1469843 INFO  [2020-01-30 20:39:38]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1469843 INFO  [2020-01-30 20:39:38]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1469843 INFO  [2020-01-30 20:39:38]  depth 1 finish: 
+	total urls:	2
+	total time:	16 seconds
+1469843 INFO  [2020-01-30 20:39:38]  start depth 2
+1469843 INFO  [2020-01-30 20:39:38]  start merge
+1469844 INFO  [2020-01-30 20:39:38]  merge fetch database
+1469846 INFO  [2020-01-30 20:39:38]  merge link database
+1469846 INFO  [2020-01-30 20:39:38]  end merge
+1469875 DEBUG [2020-01-30 20:39:38]  remove fetch database
+1469891 DEBUG [2020-01-30 20:39:38]  remove link database
+1469891 INFO  [2020-01-30 20:39:38]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1469892 INFO  [2020-01-30 20:39:38]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1470894 INFO  [2020-01-30 20:39:39]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1470894 INFO  [2020-01-30 20:39:39]  clear all activeThread
+1470894 INFO  [2020-01-30 20:39:39]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1470894 INFO  [2020-01-30 20:39:39]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1470895 INFO  [2020-01-30 20:39:39]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1509841 INFO  [2020-01-30 20:40:18]  start depth 1
+1509841 INFO  [2020-01-30 20:40:18]  start merge
+1509841 INFO  [2020-01-30 20:40:18]  merge fetch database
+1509842 INFO  [2020-01-30 20:40:18]  merge link database
+1509842 INFO  [2020-01-30 20:40:18]  end merge
+1509857 DEBUG [2020-01-30 20:40:18]  remove fetch database
+1509873 DEBUG [2020-01-30 20:40:18]  remove link database
+1509873 INFO  [2020-01-30 20:40:18]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1509874 INFO  [2020-01-30 20:40:18]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1510874 INFO  [2020-01-30 20:40:19]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1511875 INFO  [2020-01-30 20:40:20]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1512876 INFO  [2020-01-30 20:40:21]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1513901 INFO  [2020-01-30 20:40:22]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1514902 INFO  [2020-01-30 20:40:23]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1515902 INFO  [2020-01-30 20:40:24]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1516903 INFO  [2020-01-30 20:40:25]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1517903 INFO  [2020-01-30 20:40:26]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1518271 INFO  [2020-01-30 20:40:26]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_3591355593
+1518903 INFO  [2020-01-30 20:40:27]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1518903 INFO  [2020-01-30 20:40:27]  clear all activeThread
+1518904 INFO  [2020-01-30 20:40:27]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1518904 INFO  [2020-01-30 20:40:27]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1518904 INFO  [2020-01-30 20:40:27]  depth 1 finish: 
+	total urls:	1
+	total time:	9 seconds
+1518904 INFO  [2020-01-30 20:40:27]  start depth 2
+1518904 INFO  [2020-01-30 20:40:27]  start merge
+1518904 INFO  [2020-01-30 20:40:27]  merge fetch database
+1518906 INFO  [2020-01-30 20:40:27]  merge link database
+1518906 INFO  [2020-01-30 20:40:27]  end merge
+1519026 DEBUG [2020-01-30 20:40:27]  remove fetch database
+1519042 DEBUG [2020-01-30 20:40:27]  remove link database
+1519042 INFO  [2020-01-30 20:40:27]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1519043 INFO  [2020-01-30 20:40:27]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1520043 INFO  [2020-01-30 20:40:28]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1520043 INFO  [2020-01-30 20:40:28]  clear all activeThread
+1520044 INFO  [2020-01-30 20:40:28]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1520044 INFO  [2020-01-30 20:40:28]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1520044 INFO  [2020-01-30 20:40:28]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1520967 INFO  [2020-01-30 20:40:29]  start depth 1
+1520967 INFO  [2020-01-30 20:40:29]  start merge
+1520968 INFO  [2020-01-30 20:40:29]  merge fetch database
+1520968 INFO  [2020-01-30 20:40:29]  merge link database
+1520969 INFO  [2020-01-30 20:40:29]  end merge
+1520989 DEBUG [2020-01-30 20:40:29]  remove fetch database
+1521005 DEBUG [2020-01-30 20:40:29]  remove link database
+1521005 INFO  [2020-01-30 20:40:29]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1521006 INFO  [2020-01-30 20:40:29]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1522007 INFO  [2020-01-30 20:40:30]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1522007 INFO  [2020-01-30 20:40:30]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=2
+1523007 INFO  [2020-01-30 20:40:31]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1523007 INFO  [2020-01-30 20:40:31]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=2
+1524008 INFO  [2020-01-30 20:40:32]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1524008 INFO  [2020-01-30 20:40:32]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=2
+1525009 INFO  [2020-01-30 20:40:33]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1525009 INFO  [2020-01-30 20:40:33]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=2
+1526010 INFO  [2020-01-30 20:40:34]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1526010 INFO  [2020-01-30 20:40:34]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=2
+1527010 INFO  [2020-01-30 20:40:35]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1527010 INFO  [2020-01-30 20:40:35]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=2
+1528011 INFO  [2020-01-30 20:40:36]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1528011 INFO  [2020-01-30 20:40:36]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=2
+1528964 INFO  [2020-01-30 20:40:37]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=1
+1529012 INFO  [2020-01-30 20:40:37]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1530012 INFO  [2020-01-30 20:40:38]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1531013 INFO  [2020-01-30 20:40:39]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1532013 INFO  [2020-01-30 20:40:40]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1533013 INFO  [2020-01-30 20:40:41]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1534014 INFO  [2020-01-30 20:40:42]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1535014 INFO  [2020-01-30 20:40:43]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1536015 INFO  [2020-01-30 20:40:44]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1536427 INFO  [2020-01-30 20:40:44]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5018145667&containerid=1076035018145667&page=2
+1537016 INFO  [2020-01-30 20:40:45]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1537016 INFO  [2020-01-30 20:40:45]  clear all activeThread
+1537017 INFO  [2020-01-30 20:40:45]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1537017 INFO  [2020-01-30 20:40:45]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1537017 INFO  [2020-01-30 20:40:45]  depth 1 finish: 
+	total urls:	2
+	total time:	16 seconds
+1537017 INFO  [2020-01-30 20:40:45]  start depth 2
+1537017 INFO  [2020-01-30 20:40:45]  start merge
+1537018 INFO  [2020-01-30 20:40:45]  merge fetch database
+1537019 INFO  [2020-01-30 20:40:45]  merge link database
+1537020 INFO  [2020-01-30 20:40:45]  end merge
+1537033 DEBUG [2020-01-30 20:40:45]  remove fetch database
+1537051 DEBUG [2020-01-30 20:40:45]  remove link database
+1537051 INFO  [2020-01-30 20:40:45]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1537051 INFO  [2020-01-30 20:40:45]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1538052 INFO  [2020-01-30 20:40:46]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1538053 INFO  [2020-01-30 20:40:46]  clear all activeThread
+1538053 INFO  [2020-01-30 20:40:46]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1538053 INFO  [2020-01-30 20:40:46]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1538053 INFO  [2020-01-30 20:40:46]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1561329 INFO  [2020-01-30 20:41:09]  start depth 1
+1561329 INFO  [2020-01-30 20:41:09]  start merge
+1561329 INFO  [2020-01-30 20:41:09]  merge fetch database
+1561329 INFO  [2020-01-30 20:41:09]  merge link database
+1561330 INFO  [2020-01-30 20:41:09]  end merge
+1561342 DEBUG [2020-01-30 20:41:09]  remove fetch database
+1561360 DEBUG [2020-01-30 20:41:09]  remove link database
+1561360 INFO  [2020-01-30 20:41:09]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1561360 INFO  [2020-01-30 20:41:09]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1562361 INFO  [2020-01-30 20:41:10]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1563362 INFO  [2020-01-30 20:41:11]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1564362 INFO  [2020-01-30 20:41:12]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1565363 INFO  [2020-01-30 20:41:13]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1566368 INFO  [2020-01-30 20:41:14]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1567369 INFO  [2020-01-30 20:41:15]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1568369 INFO  [2020-01-30 20:41:16]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1569370 INFO  [2020-01-30 20:41:17]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1570371 INFO  [2020-01-30 20:41:18]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1571372 INFO  [2020-01-30 20:41:19]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1572009 INFO  [2020-01-30 20:41:20]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_5018145667
+1572372 INFO  [2020-01-30 20:41:20]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1572372 INFO  [2020-01-30 20:41:20]  clear all activeThread
+1572373 INFO  [2020-01-30 20:41:20]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1572373 INFO  [2020-01-30 20:41:20]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1572373 INFO  [2020-01-30 20:41:20]  depth 1 finish: 
+	total urls:	1
+	total time:	11 seconds
+1572373 INFO  [2020-01-30 20:41:20]  start depth 2
+1572373 INFO  [2020-01-30 20:41:20]  start merge
+1572373 INFO  [2020-01-30 20:41:20]  merge fetch database
+1572375 INFO  [2020-01-30 20:41:20]  merge link database
+1572376 INFO  [2020-01-30 20:41:20]  end merge
+1572404 DEBUG [2020-01-30 20:41:20]  remove fetch database
+1572453 DEBUG [2020-01-30 20:41:20]  remove link database
+1572453 INFO  [2020-01-30 20:41:20]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1572454 INFO  [2020-01-30 20:41:20]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1573456 INFO  [2020-01-30 20:41:21]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1573456 INFO  [2020-01-30 20:41:21]  clear all activeThread
+1573456 INFO  [2020-01-30 20:41:21]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1573456 INFO  [2020-01-30 20:41:21]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1573457 INFO  [2020-01-30 20:41:21]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1574191 INFO  [2020-01-30 20:41:22]  start depth 1
+1574191 INFO  [2020-01-30 20:41:22]  start merge
+1574192 INFO  [2020-01-30 20:41:22]  merge fetch database
+1574192 INFO  [2020-01-30 20:41:22]  merge link database
+1574192 INFO  [2020-01-30 20:41:22]  end merge
+1574206 DEBUG [2020-01-30 20:41:22]  remove fetch database
+1574223 DEBUG [2020-01-30 20:41:22]  remove link database
+1574223 INFO  [2020-01-30 20:41:22]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1574224 INFO  [2020-01-30 20:41:22]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1575224 INFO  [2020-01-30 20:41:23]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1575224 INFO  [2020-01-30 20:41:23]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1576225 INFO  [2020-01-30 20:41:24]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1576225 INFO  [2020-01-30 20:41:24]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1577225 INFO  [2020-01-30 20:41:25]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1577225 INFO  [2020-01-30 20:41:25]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1578225 INFO  [2020-01-30 20:41:26]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1578225 INFO  [2020-01-30 20:41:26]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1579225 INFO  [2020-01-30 20:41:27]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1579225 INFO  [2020-01-30 20:41:27]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1580225 INFO  [2020-01-30 20:41:28]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1580225 INFO  [2020-01-30 20:41:28]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1581225 INFO  [2020-01-30 20:41:29]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1581225 INFO  [2020-01-30 20:41:29]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1582226 INFO  [2020-01-30 20:41:30]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1582226 INFO  [2020-01-30 20:41:30]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1582301 INFO  [2020-01-30 20:41:30]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=1
+1583227 INFO  [2020-01-30 20:41:31]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1584227 INFO  [2020-01-30 20:41:32]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1585227 INFO  [2020-01-30 20:41:33]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1586228 INFO  [2020-01-30 20:41:34]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1587228 INFO  [2020-01-30 20:41:35]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1588228 INFO  [2020-01-30 20:41:36]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1589228 INFO  [2020-01-30 20:41:37]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1589938 INFO  [2020-01-30 20:41:38]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5778628235&containerid=1076035778628235&page=2
+1590228 INFO  [2020-01-30 20:41:38]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1590228 INFO  [2020-01-30 20:41:38]  clear all activeThread
+1590229 INFO  [2020-01-30 20:41:38]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1590229 INFO  [2020-01-30 20:41:38]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1590229 INFO  [2020-01-30 20:41:38]  depth 1 finish: 
+	total urls:	2
+	total time:	16 seconds
+1590229 INFO  [2020-01-30 20:41:38]  start depth 2
+1590229 INFO  [2020-01-30 20:41:38]  start merge
+1590229 INFO  [2020-01-30 20:41:38]  merge fetch database
+1590230 INFO  [2020-01-30 20:41:38]  merge link database
+1590231 INFO  [2020-01-30 20:41:38]  end merge
+1590246 DEBUG [2020-01-30 20:41:38]  remove fetch database
+1590263 DEBUG [2020-01-30 20:41:38]  remove link database
+1590264 INFO  [2020-01-30 20:41:38]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1590264 INFO  [2020-01-30 20:41:38]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1591264 INFO  [2020-01-30 20:41:39]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1591265 INFO  [2020-01-30 20:41:39]  clear all activeThread
+1591265 INFO  [2020-01-30 20:41:39]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1591265 INFO  [2020-01-30 20:41:39]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1591265 INFO  [2020-01-30 20:41:39]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1669353 INFO  [2020-01-30 20:42:57]  start depth 1
+1669353 INFO  [2020-01-30 20:42:57]  start merge
+1669353 INFO  [2020-01-30 20:42:57]  merge fetch database
+1669353 INFO  [2020-01-30 20:42:57]  merge link database
+1669353 INFO  [2020-01-30 20:42:57]  end merge
+1669368 DEBUG [2020-01-30 20:42:57]  remove fetch database
+1669385 DEBUG [2020-01-30 20:42:57]  remove link database
+1669385 INFO  [2020-01-30 20:42:57]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1669385 INFO  [2020-01-30 20:42:57]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1670386 INFO  [2020-01-30 20:42:58]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1671386 INFO  [2020-01-30 20:42:59]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1672386 INFO  [2020-01-30 20:43:00]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1673387 INFO  [2020-01-30 20:43:01]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1674387 INFO  [2020-01-30 20:43:02]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1675388 INFO  [2020-01-30 20:43:03]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1676389 INFO  [2020-01-30 20:43:04]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1677389 INFO  [2020-01-30 20:43:05]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1677659 INFO  [2020-01-30 20:43:06]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_5778628235
+1678389 INFO  [2020-01-30 20:43:06]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1678389 INFO  [2020-01-30 20:43:06]  clear all activeThread
+1678390 INFO  [2020-01-30 20:43:06]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1678390 INFO  [2020-01-30 20:43:06]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1678390 INFO  [2020-01-30 20:43:06]  depth 1 finish: 
+	total urls:	1
+	total time:	9 seconds
+1678390 INFO  [2020-01-30 20:43:06]  start depth 2
+1678390 INFO  [2020-01-30 20:43:06]  start merge
+1678390 INFO  [2020-01-30 20:43:06]  merge fetch database
+1678392 INFO  [2020-01-30 20:43:06]  merge link database
+1678392 INFO  [2020-01-30 20:43:06]  end merge
+1678417 DEBUG [2020-01-30 20:43:06]  remove fetch database
+1678433 DEBUG [2020-01-30 20:43:06]  remove link database
+1678433 INFO  [2020-01-30 20:43:06]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1678433 INFO  [2020-01-30 20:43:06]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1679434 INFO  [2020-01-30 20:43:07]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1679434 INFO  [2020-01-30 20:43:07]  clear all activeThread
+1679434 INFO  [2020-01-30 20:43:07]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1679434 INFO  [2020-01-30 20:43:07]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1679434 INFO  [2020-01-30 20:43:07]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1680336 INFO  [2020-01-30 20:43:08]  start depth 1
+1680336 INFO  [2020-01-30 20:43:08]  start merge
+1680336 INFO  [2020-01-30 20:43:08]  merge fetch database
+1680337 INFO  [2020-01-30 20:43:08]  merge link database
+1680337 INFO  [2020-01-30 20:43:08]  end merge
+1680351 DEBUG [2020-01-30 20:43:08]  remove fetch database
+1680369 DEBUG [2020-01-30 20:43:08]  remove link database
+1680369 INFO  [2020-01-30 20:43:08]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1680369 INFO  [2020-01-30 20:43:08]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1681370 INFO  [2020-01-30 20:43:09]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1681370 INFO  [2020-01-30 20:43:09]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1682371 INFO  [2020-01-30 20:43:10]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1682371 INFO  [2020-01-30 20:43:10]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1683371 INFO  [2020-01-30 20:43:11]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1683371 INFO  [2020-01-30 20:43:11]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1684371 INFO  [2020-01-30 20:43:12]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1684371 INFO  [2020-01-30 20:43:12]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1685371 INFO  [2020-01-30 20:43:13]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1685371 INFO  [2020-01-30 20:43:13]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1686372 INFO  [2020-01-30 20:43:14]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1686372 INFO  [2020-01-30 20:43:14]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1687372 INFO  [2020-01-30 20:43:15]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1687372 INFO  [2020-01-30 20:43:15]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1688372 INFO  [2020-01-30 20:43:16]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1688372 INFO  [2020-01-30 20:43:16]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1688476 INFO  [2020-01-30 20:43:16]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=1
+1689373 INFO  [2020-01-30 20:43:17]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1690373 INFO  [2020-01-30 20:43:18]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1691373 INFO  [2020-01-30 20:43:19]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1692374 INFO  [2020-01-30 20:43:20]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1693375 INFO  [2020-01-30 20:43:21]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1694375 INFO  [2020-01-30 20:43:22]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1695376 INFO  [2020-01-30 20:43:23]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1696041 INFO  [2020-01-30 20:43:24]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5762454887&containerid=1076035762454887&page=2
+1696376 INFO  [2020-01-30 20:43:24]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1696376 INFO  [2020-01-30 20:43:24]  clear all activeThread
+1696376 INFO  [2020-01-30 20:43:24]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1696376 INFO  [2020-01-30 20:43:24]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1696376 INFO  [2020-01-30 20:43:24]  depth 1 finish: 
+	total urls:	2
+	total time:	16 seconds
+1696376 INFO  [2020-01-30 20:43:24]  start depth 2
+1696376 INFO  [2020-01-30 20:43:24]  start merge
+1696377 INFO  [2020-01-30 20:43:24]  merge fetch database
+1696377 INFO  [2020-01-30 20:43:24]  merge link database
+1696377 INFO  [2020-01-30 20:43:24]  end merge
+1696547 DEBUG [2020-01-30 20:43:25]  remove fetch database
+1696564 DEBUG [2020-01-30 20:43:25]  remove link database
+1696564 INFO  [2020-01-30 20:43:25]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1696565 INFO  [2020-01-30 20:43:25]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1697565 INFO  [2020-01-30 20:43:26]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1697565 INFO  [2020-01-30 20:43:26]  clear all activeThread
+1697566 INFO  [2020-01-30 20:43:26]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1697566 INFO  [2020-01-30 20:43:26]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1697566 INFO  [2020-01-30 20:43:26]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1744214 INFO  [2020-01-30 20:44:12]  start depth 1
+1744215 INFO  [2020-01-30 20:44:12]  start merge
+1744215 INFO  [2020-01-30 20:44:12]  merge fetch database
+1744215 INFO  [2020-01-30 20:44:12]  merge link database
+1744215 INFO  [2020-01-30 20:44:12]  end merge
+1744281 DEBUG [2020-01-30 20:44:12]  remove fetch database
+1744297 DEBUG [2020-01-30 20:44:12]  remove link database
+1744297 INFO  [2020-01-30 20:44:12]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1744297 INFO  [2020-01-30 20:44:12]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1745298 INFO  [2020-01-30 20:44:13]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1746298 INFO  [2020-01-30 20:44:14]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1747299 INFO  [2020-01-30 20:44:15]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1748299 INFO  [2020-01-30 20:44:16]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1749299 INFO  [2020-01-30 20:44:17]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1750300 INFO  [2020-01-30 20:44:18]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1751300 INFO  [2020-01-30 20:44:19]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1752301 INFO  [2020-01-30 20:44:20]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1752743 INFO  [2020-01-30 20:44:21]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_5762454887
+1753302 INFO  [2020-01-30 20:44:21]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1753302 INFO  [2020-01-30 20:44:21]  clear all activeThread
+1753302 INFO  [2020-01-30 20:44:21]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1753302 INFO  [2020-01-30 20:44:21]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1753302 INFO  [2020-01-30 20:44:21]  depth 1 finish: 
+	total urls:	1
+	total time:	9 seconds
+1753302 INFO  [2020-01-30 20:44:21]  start depth 2
+1753302 INFO  [2020-01-30 20:44:21]  start merge
+1753302 INFO  [2020-01-30 20:44:21]  merge fetch database
+1753303 INFO  [2020-01-30 20:44:21]  merge link database
+1753303 INFO  [2020-01-30 20:44:21]  end merge
+1753318 DEBUG [2020-01-30 20:44:21]  remove fetch database
+1753335 DEBUG [2020-01-30 20:44:21]  remove link database
+1753335 INFO  [2020-01-30 20:44:21]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1753335 INFO  [2020-01-30 20:44:21]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1754335 INFO  [2020-01-30 20:44:22]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1754335 INFO  [2020-01-30 20:44:22]  clear all activeThread
+1754335 INFO  [2020-01-30 20:44:22]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1754335 INFO  [2020-01-30 20:44:22]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1754335 INFO  [2020-01-30 20:44:22]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1755407 INFO  [2020-01-30 20:44:23]  start depth 1
+1755408 INFO  [2020-01-30 20:44:23]  start merge
+1755408 INFO  [2020-01-30 20:44:23]  merge fetch database
+1755408 INFO  [2020-01-30 20:44:23]  merge link database
+1755408 INFO  [2020-01-30 20:44:23]  end merge
+1755423 DEBUG [2020-01-30 20:44:23]  remove fetch database
+1755439 DEBUG [2020-01-30 20:44:23]  remove link database
+1755440 INFO  [2020-01-30 20:44:23]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1755440 INFO  [2020-01-30 20:44:23]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1756441 INFO  [2020-01-30 20:44:24]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1756441 INFO  [2020-01-30 20:44:24]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1757442 INFO  [2020-01-30 20:44:25]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1757442 INFO  [2020-01-30 20:44:25]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1758442 INFO  [2020-01-30 20:44:26]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1758442 INFO  [2020-01-30 20:44:26]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1759442 INFO  [2020-01-30 20:44:27]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1759442 INFO  [2020-01-30 20:44:27]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1760443 INFO  [2020-01-30 20:44:28]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1760443 INFO  [2020-01-30 20:44:28]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1761443 INFO  [2020-01-30 20:44:29]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1761443 INFO  [2020-01-30 20:44:29]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1762445 INFO  [2020-01-30 20:44:30]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1762445 INFO  [2020-01-30 20:44:30]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1763445 INFO  [2020-01-30 20:44:31]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1763445 INFO  [2020-01-30 20:44:31]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1763706 INFO  [2020-01-30 20:44:32]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=1
+1764445 INFO  [2020-01-30 20:44:32]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1765445 INFO  [2020-01-30 20:44:33]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1766446 INFO  [2020-01-30 20:44:34]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1767446 INFO  [2020-01-30 20:44:35]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1768447 INFO  [2020-01-30 20:44:36]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1769448 INFO  [2020-01-30 20:44:37]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1770448 INFO  [2020-01-30 20:44:38]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1771448 INFO  [2020-01-30 20:44:39]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1771497 INFO  [2020-01-30 20:44:39]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+1772449 INFO  [2020-01-30 20:44:40]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1772449 INFO  [2020-01-30 20:44:40]  clear all activeThread
+1772449 INFO  [2020-01-30 20:44:40]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1772449 INFO  [2020-01-30 20:44:40]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1772449 INFO  [2020-01-30 20:44:40]  depth 1 finish: 
+	total urls:	2
+	total time:	17 seconds
+1772449 INFO  [2020-01-30 20:44:40]  start depth 2
+1772449 INFO  [2020-01-30 20:44:40]  start merge
+1772449 INFO  [2020-01-30 20:44:40]  merge fetch database
+1772449 INFO  [2020-01-30 20:44:40]  merge link database
+1772449 INFO  [2020-01-30 20:44:40]  end merge
+1772468 DEBUG [2020-01-30 20:44:40]  remove fetch database
+1772485 DEBUG [2020-01-30 20:44:40]  remove link database
+1772485 INFO  [2020-01-30 20:44:40]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1772485 INFO  [2020-01-30 20:44:40]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1773486 INFO  [2020-01-30 20:44:41]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1773486 INFO  [2020-01-30 20:44:41]  clear all activeThread
+1773487 INFO  [2020-01-30 20:44:41]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1773487 INFO  [2020-01-30 20:44:41]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1773487 INFO  [2020-01-30 20:44:41]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1871451 INFO  [2020-01-30 20:46:19]  start depth 1
+1871451 INFO  [2020-01-30 20:46:19]  start merge
+1871451 INFO  [2020-01-30 20:46:19]  merge fetch database
+1871451 INFO  [2020-01-30 20:46:19]  merge link database
+1871451 INFO  [2020-01-30 20:46:19]  end merge
+1871569 DEBUG [2020-01-30 20:46:20]  remove fetch database
+1871592 DEBUG [2020-01-30 20:46:20]  remove link database
+1871593 INFO  [2020-01-30 20:46:20]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1871594 INFO  [2020-01-30 20:46:20]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1872595 INFO  [2020-01-30 20:46:21]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1873596 INFO  [2020-01-30 20:46:22]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1874596 INFO  [2020-01-30 20:46:23]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1875596 INFO  [2020-01-30 20:46:24]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1876597 INFO  [2020-01-30 20:46:25]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1877597 INFO  [2020-01-30 20:46:26]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1878597 INFO  [2020-01-30 20:46:27]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1879598 INFO  [2020-01-30 20:46:28]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1879625 INFO  [2020-01-30 20:46:28]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_3941354960
+1880598 INFO  [2020-01-30 20:46:29]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1880598 INFO  [2020-01-30 20:46:29]  clear all activeThread
+1880598 INFO  [2020-01-30 20:46:29]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1880598 INFO  [2020-01-30 20:46:29]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1880598 INFO  [2020-01-30 20:46:29]  depth 1 finish: 
+	total urls:	1
+	total time:	9 seconds
+1880598 INFO  [2020-01-30 20:46:29]  start depth 2
+1880598 INFO  [2020-01-30 20:46:29]  start merge
+1880598 INFO  [2020-01-30 20:46:29]  merge fetch database
+1880598 INFO  [2020-01-30 20:46:29]  merge link database
+1880598 INFO  [2020-01-30 20:46:29]  end merge
+1880686 DEBUG [2020-01-30 20:46:29]  remove fetch database
+1880704 DEBUG [2020-01-30 20:46:29]  remove link database
+1880704 INFO  [2020-01-30 20:46:29]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1880704 INFO  [2020-01-30 20:46:29]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1881705 INFO  [2020-01-30 20:46:30]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1881705 INFO  [2020-01-30 20:46:30]  clear all activeThread
+1881705 INFO  [2020-01-30 20:46:30]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1881705 INFO  [2020-01-30 20:46:30]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1881705 INFO  [2020-01-30 20:46:30]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1882836 INFO  [2020-01-30 20:46:31]  start depth 1
+1882836 INFO  [2020-01-30 20:46:31]  start merge
+1882836 INFO  [2020-01-30 20:46:31]  merge fetch database
+1882836 INFO  [2020-01-30 20:46:31]  merge link database
+1882836 INFO  [2020-01-30 20:46:31]  end merge
+1882852 DEBUG [2020-01-30 20:46:31]  remove fetch database
+1882868 DEBUG [2020-01-30 20:46:31]  remove link database
+1882868 INFO  [2020-01-30 20:46:31]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1882868 INFO  [2020-01-30 20:46:31]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1883868 INFO  [2020-01-30 20:46:32]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1883868 INFO  [2020-01-30 20:46:32]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=2
+1884869 INFO  [2020-01-30 20:46:33]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1884869 INFO  [2020-01-30 20:46:33]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=2
+1885869 INFO  [2020-01-30 20:46:34]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1885869 INFO  [2020-01-30 20:46:34]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=2
+1886869 INFO  [2020-01-30 20:46:35]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1886869 INFO  [2020-01-30 20:46:35]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=2
+1887870 INFO  [2020-01-30 20:46:36]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1887870 INFO  [2020-01-30 20:46:36]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=2
+1888870 INFO  [2020-01-30 20:46:37]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1888870 INFO  [2020-01-30 20:46:37]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=2
+1889870 INFO  [2020-01-30 20:46:38]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1889870 INFO  [2020-01-30 20:46:38]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=2
+1890843 INFO  [2020-01-30 20:46:39]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=1
+1890871 INFO  [2020-01-30 20:46:39]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1891871 INFO  [2020-01-30 20:46:40]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1892871 INFO  [2020-01-30 20:46:41]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1893872 INFO  [2020-01-30 20:46:42]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1894872 INFO  [2020-01-30 20:46:43]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1895872 INFO  [2020-01-30 20:46:44]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1896872 INFO  [2020-01-30 20:46:45]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1897873 INFO  [2020-01-30 20:46:46]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1898747 INFO  [2020-01-30 20:46:47]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5743923782&containerid=1076035743923782&page=2
+1898873 INFO  [2020-01-30 20:46:47]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1898873 INFO  [2020-01-30 20:46:47]  clear all activeThread
+1898873 INFO  [2020-01-30 20:46:47]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1898873 INFO  [2020-01-30 20:46:47]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1898873 INFO  [2020-01-30 20:46:47]  depth 1 finish: 
+	total urls:	2
+	total time:	16 seconds
+1898873 INFO  [2020-01-30 20:46:47]  start depth 2
+1898873 INFO  [2020-01-30 20:46:47]  start merge
+1898873 INFO  [2020-01-30 20:46:47]  merge fetch database
+1898873 INFO  [2020-01-30 20:46:47]  merge link database
+1898873 INFO  [2020-01-30 20:46:47]  end merge
+1898887 DEBUG [2020-01-30 20:46:47]  remove fetch database
+1898905 DEBUG [2020-01-30 20:46:47]  remove link database
+1898905 INFO  [2020-01-30 20:46:47]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1898905 INFO  [2020-01-30 20:46:47]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1899905 INFO  [2020-01-30 20:46:48]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1899905 INFO  [2020-01-30 20:46:48]  clear all activeThread
+1899905 INFO  [2020-01-30 20:46:48]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1899905 INFO  [2020-01-30 20:46:48]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1899905 INFO  [2020-01-30 20:46:48]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1964426 INFO  [2020-01-30 20:47:52]  start depth 1
+1964426 INFO  [2020-01-30 20:47:52]  start merge
+1964426 INFO  [2020-01-30 20:47:52]  merge fetch database
+1964426 INFO  [2020-01-30 20:47:52]  merge link database
+1964426 INFO  [2020-01-30 20:47:52]  end merge
+1964441 DEBUG [2020-01-30 20:47:52]  remove fetch database
+1964458 DEBUG [2020-01-30 20:47:52]  remove link database
+1964458 INFO  [2020-01-30 20:47:52]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1964459 INFO  [2020-01-30 20:47:52]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1965459 INFO  [2020-01-30 20:47:53]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1966461 INFO  [2020-01-30 20:47:54]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1967462 INFO  [2020-01-30 20:47:55]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1968462 INFO  [2020-01-30 20:47:56]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1969462 INFO  [2020-01-30 20:47:57]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1970463 INFO  [2020-01-30 20:47:58]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1971463 INFO  [2020-01-30 20:47:59]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1972463 INFO  [2020-01-30 20:48:00]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+1972499 INFO  [2020-01-30 20:48:00]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_5743923782
+1973464 INFO  [2020-01-30 20:48:01]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1973464 INFO  [2020-01-30 20:48:01]  clear all activeThread
+1973464 INFO  [2020-01-30 20:48:01]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1973464 INFO  [2020-01-30 20:48:01]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1973464 INFO  [2020-01-30 20:48:01]  depth 1 finish: 
+	total urls:	1
+	total time:	9 seconds
+1973464 INFO  [2020-01-30 20:48:01]  start depth 2
+1973464 INFO  [2020-01-30 20:48:01]  start merge
+1973464 INFO  [2020-01-30 20:48:01]  merge fetch database
+1973465 INFO  [2020-01-30 20:48:01]  merge link database
+1973465 INFO  [2020-01-30 20:48:01]  end merge
+1973479 DEBUG [2020-01-30 20:48:01]  remove fetch database
+1973495 DEBUG [2020-01-30 20:48:01]  remove link database
+1973495 INFO  [2020-01-30 20:48:01]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1973495 INFO  [2020-01-30 20:48:01]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1974496 INFO  [2020-01-30 20:48:02]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+1974496 INFO  [2020-01-30 20:48:02]  clear all activeThread
+1974496 INFO  [2020-01-30 20:48:02]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1974496 INFO  [2020-01-30 20:48:02]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1974496 INFO  [2020-01-30 20:48:02]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+1996143 INFO  [2020-01-30 20:48:24]  start depth 1
+1996143 INFO  [2020-01-30 20:48:24]  start merge
+1996143 INFO  [2020-01-30 20:48:24]  merge fetch database
+1996143 INFO  [2020-01-30 20:48:24]  merge link database
+1996143 INFO  [2020-01-30 20:48:24]  end merge
+1996158 DEBUG [2020-01-30 20:48:24]  remove fetch database
+1996175 DEBUG [2020-01-30 20:48:24]  remove link database
+1996175 INFO  [2020-01-30 20:48:24]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+1996176 INFO  [2020-01-30 20:48:24]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+1997177 INFO  [2020-01-30 20:48:25]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1997177 INFO  [2020-01-30 20:48:25]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=2
+1998177 INFO  [2020-01-30 20:48:26]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1998177 INFO  [2020-01-30 20:48:26]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=2
+1999177 INFO  [2020-01-30 20:48:27]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+1999177 INFO  [2020-01-30 20:48:27]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=2
+2000178 INFO  [2020-01-30 20:48:28]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2000178 INFO  [2020-01-30 20:48:28]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=2
+2001178 INFO  [2020-01-30 20:48:29]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2001178 INFO  [2020-01-30 20:48:29]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=2
+2002178 INFO  [2020-01-30 20:48:30]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2002178 INFO  [2020-01-30 20:48:30]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=2
+2003179 INFO  [2020-01-30 20:48:31]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2003179 INFO  [2020-01-30 20:48:31]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=2
+2004019 INFO  [2020-01-30 20:48:32]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=1
+2004180 INFO  [2020-01-30 20:48:32]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2005181 INFO  [2020-01-30 20:48:33]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2006182 INFO  [2020-01-30 20:48:34]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2007182 INFO  [2020-01-30 20:48:35]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2008182 INFO  [2020-01-30 20:48:36]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2009183 INFO  [2020-01-30 20:48:37]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2010183 INFO  [2020-01-30 20:48:38]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2011183 INFO  [2020-01-30 20:48:39]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2011430 INFO  [2020-01-30 20:48:39]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=5502627600&containerid=1076035502627600&page=2
+2012183 INFO  [2020-01-30 20:48:40]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2012183 INFO  [2020-01-30 20:48:40]  clear all activeThread
+2012183 INFO  [2020-01-30 20:48:40]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2012183 INFO  [2020-01-30 20:48:40]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2012183 INFO  [2020-01-30 20:48:40]  depth 1 finish: 
+	total urls:	2
+	total time:	16 seconds
+2012183 INFO  [2020-01-30 20:48:40]  start depth 2
+2012183 INFO  [2020-01-30 20:48:40]  start merge
+2012183 INFO  [2020-01-30 20:48:40]  merge fetch database
+2012184 INFO  [2020-01-30 20:48:40]  merge link database
+2012184 INFO  [2020-01-30 20:48:40]  end merge
+2013483 DEBUG [2020-01-30 20:48:41]  remove fetch database
+2013499 DEBUG [2020-01-30 20:48:41]  remove link database
+2013499 INFO  [2020-01-30 20:48:41]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2013499 INFO  [2020-01-30 20:48:41]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2014500 INFO  [2020-01-30 20:48:42]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2014500 INFO  [2020-01-30 20:48:42]  clear all activeThread
+2014500 INFO  [2020-01-30 20:48:42]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2014500 INFO  [2020-01-30 20:48:42]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2014500 INFO  [2020-01-30 20:48:42]  depth 2 finish: 
+	total urls:	0
+	total time:	2 seconds
+2053128 INFO  [2020-01-30 20:49:21]  start depth 1
+2053128 INFO  [2020-01-30 20:49:21]  start merge
+2053128 INFO  [2020-01-30 20:49:21]  merge fetch database
+2053128 INFO  [2020-01-30 20:49:21]  merge link database
+2053128 INFO  [2020-01-30 20:49:21]  end merge
+2053143 DEBUG [2020-01-30 20:49:21]  remove fetch database
+2053161 DEBUG [2020-01-30 20:49:21]  remove link database
+2053161 INFO  [2020-01-30 20:49:21]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2053161 INFO  [2020-01-30 20:49:21]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2054162 INFO  [2020-01-30 20:49:22]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2055162 INFO  [2020-01-30 20:49:23]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2056163 INFO  [2020-01-30 20:49:24]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2057164 INFO  [2020-01-30 20:49:25]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2058165 INFO  [2020-01-30 20:49:26]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2059229 INFO  [2020-01-30 20:49:27]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2060229 INFO  [2020-01-30 20:49:28]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2061230 INFO  [2020-01-30 20:49:29]  -activeThreads=1, spinWaiting=0, fetchQueue.size=0
+2062087 INFO  [2020-01-30 20:49:30]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_5502627600
+2062230 INFO  [2020-01-30 20:49:30]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2062230 INFO  [2020-01-30 20:49:30]  clear all activeThread
+2062230 INFO  [2020-01-30 20:49:30]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2062230 INFO  [2020-01-30 20:49:30]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2062230 INFO  [2020-01-30 20:49:30]  depth 1 finish: 
+	total urls:	1
+	total time:	9 seconds
+2062231 INFO  [2020-01-30 20:49:30]  start depth 2
+2062231 INFO  [2020-01-30 20:49:30]  start merge
+2062231 INFO  [2020-01-30 20:49:30]  merge fetch database
+2062231 INFO  [2020-01-30 20:49:30]  merge link database
+2062231 INFO  [2020-01-30 20:49:30]  end merge
+2062248 DEBUG [2020-01-30 20:49:30]  remove fetch database
+2062264 DEBUG [2020-01-30 20:49:30]  remove link database
+2062264 INFO  [2020-01-30 20:49:30]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2062266 INFO  [2020-01-30 20:49:30]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2063267 INFO  [2020-01-30 20:49:31]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2063267 INFO  [2020-01-30 20:49:31]  clear all activeThread
+2063267 INFO  [2020-01-30 20:49:31]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2063267 INFO  [2020-01-30 20:49:31]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2063267 INFO  [2020-01-30 20:49:31]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+2064897 INFO  [2020-01-30 20:49:33]  start depth 1
+2064897 INFO  [2020-01-30 20:49:33]  start merge
+2064897 INFO  [2020-01-30 20:49:33]  merge fetch database
+2064898 INFO  [2020-01-30 20:49:33]  merge link database
+2064898 INFO  [2020-01-30 20:49:33]  end merge
+2064920 DEBUG [2020-01-30 20:49:33]  remove fetch database
+2064937 DEBUG [2020-01-30 20:49:33]  remove link database
+2064937 INFO  [2020-01-30 20:49:33]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2064938 INFO  [2020-01-30 20:49:33]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2065940 INFO  [2020-01-30 20:49:34]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2065940 INFO  [2020-01-30 20:49:34]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+2066940 INFO  [2020-01-30 20:49:35]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2066940 INFO  [2020-01-30 20:49:35]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+2067940 INFO  [2020-01-30 20:49:36]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2067940 INFO  [2020-01-30 20:49:36]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+2067964 INFO  [2020-01-30 20:49:36]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=1
+2068384 INFO  [2020-01-30 20:49:36]  done: https://m.weibo.cn/api/container/getIndex?type=uid&value=3941354960&containerid=1076033941354960&page=2
+2068941 INFO  [2020-01-30 20:49:37]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2068941 INFO  [2020-01-30 20:49:37]  clear all activeThread
+2068942 INFO  [2020-01-30 20:49:37]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2068942 INFO  [2020-01-30 20:49:37]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2068942 INFO  [2020-01-30 20:49:37]  depth 1 finish: 
+	total urls:	2
+	total time:	4 seconds
+2068942 INFO  [2020-01-30 20:49:37]  start depth 2
+2068942 INFO  [2020-01-30 20:49:37]  start merge
+2068942 INFO  [2020-01-30 20:49:37]  merge fetch database
+2068944 INFO  [2020-01-30 20:49:37]  merge link database
+2068944 INFO  [2020-01-30 20:49:37]  end merge
+2069046 DEBUG [2020-01-30 20:49:37]  remove fetch database
+2069064 DEBUG [2020-01-30 20:49:37]  remove link database
+2069064 INFO  [2020-01-30 20:49:37]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2069064 INFO  [2020-01-30 20:49:37]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2070065 INFO  [2020-01-30 20:49:38]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2070065 INFO  [2020-01-30 20:49:38]  clear all activeThread
+2070065 INFO  [2020-01-30 20:49:38]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2070065 INFO  [2020-01-30 20:49:38]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2070065 INFO  [2020-01-30 20:49:38]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+2070136 INFO  [2020-01-30 20:49:38]  start depth 1
+2070136 INFO  [2020-01-30 20:49:38]  start merge
+2070137 INFO  [2020-01-30 20:49:38]  merge fetch database
+2070137 INFO  [2020-01-30 20:49:38]  merge link database
+2070137 INFO  [2020-01-30 20:49:38]  end merge
+2070161 DEBUG [2020-01-30 20:49:38]  remove fetch database
+2070177 DEBUG [2020-01-30 20:49:38]  remove link database
+2070177 INFO  [2020-01-30 20:49:38]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2070177 INFO  [2020-01-30 20:49:38]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2071122 INFO  [2020-01-30 20:49:39]  done: https://m.weibo.cn/api/container/getIndex?containerid=231051_-_followers_-_3941354960
+2071178 INFO  [2020-01-30 20:49:39]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2071178 INFO  [2020-01-30 20:49:39]  clear all activeThread
+2071178 INFO  [2020-01-30 20:49:39]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2071178 INFO  [2020-01-30 20:49:39]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2071178 INFO  [2020-01-30 20:49:39]  depth 1 finish: 
+	total urls:	1
+	total time:	1 seconds
+2071178 INFO  [2020-01-30 20:49:39]  start depth 2
+2071178 INFO  [2020-01-30 20:49:39]  start merge
+2071178 INFO  [2020-01-30 20:49:39]  merge fetch database
+2071179 INFO  [2020-01-30 20:49:39]  merge link database
+2071179 INFO  [2020-01-30 20:49:39]  end merge
+2071195 DEBUG [2020-01-30 20:49:39]  remove fetch database
+2071212 DEBUG [2020-01-30 20:49:39]  remove link database
+2071212 INFO  [2020-01-30 20:49:39]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2071212 INFO  [2020-01-30 20:49:39]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2072212 INFO  [2020-01-30 20:49:40]  -activeThreads=0, spinWaiting=0, fetchQueue.size=0
+2072212 INFO  [2020-01-30 20:49:40]  clear all activeThread
+2072212 INFO  [2020-01-30 20:49:40]  close generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2072212 INFO  [2020-01-30 20:49:40]  close segmentwriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2072212 INFO  [2020-01-30 20:49:40]  depth 2 finish: 
+	total urls:	0
+	total time:	1 seconds
+2073160 INFO  [2020-01-30 20:49:41]  start depth 1
+2073160 INFO  [2020-01-30 20:49:41]  start merge
+2073161 INFO  [2020-01-30 20:49:41]  merge fetch database
+2073161 INFO  [2020-01-30 20:49:41]  merge link database
+2073161 INFO  [2020-01-30 20:49:41]  end merge
+2073177 DEBUG [2020-01-30 20:49:41]  remove fetch database
+2073194 DEBUG [2020-01-30 20:49:41]  remove link database
+2073194 INFO  [2020-01-30 20:49:41]  open generator:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyGenerator
+2073194 INFO  [2020-01-30 20:49:41]  init segmentWriter:cn.edu.hfut.dmic.webcollector.plugin.berkeley.BerkeleyDBManager
+2074195 INFO  [2020-01-30 20:49:42]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2074195 INFO  [2020-01-30 20:49:42]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=1909576453&containerid=1076031909576453&page=2
+2075195 INFO  [2020-01-30 20:49:43]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2075195 INFO  [2020-01-30 20:49:43]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=1909576453&containerid=1076031909576453&page=2
+2076196 INFO  [2020-01-30 20:49:44]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2076196 INFO  [2020-01-30 20:49:44]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=1909576453&containerid=1076031909576453&page=2
+2077196 INFO  [2020-01-30 20:49:45]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2077196 INFO  [2020-01-30 20:49:45]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=1909576453&containerid=1076031909576453&page=2
+2078196 INFO  [2020-01-30 20:49:46]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2078196 INFO  [2020-01-30 20:49:46]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=1909576453&containerid=1076031909576453&page=2
+2079197 INFO  [2020-01-30 20:49:47]  -activeThreads=1, spinWaiting=0, fetchQueue.size=1
+2079197 INFO  [2020-01-30 20:49:47]    0. https://m.weibo.cn/api/container/getIndex?type=uid&value=1909576453&containerid=1076031909576453&page=2
